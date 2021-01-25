@@ -1,0 +1,183 @@
+#EXTM3U url-tvg="http://tropical.jungle-team.online/epg/koala3.xml"
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85591
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/45417
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" tvg-name="Antena 3",Antena 3
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23170
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200" tvg-name="Antena 3",Antena 3
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23169
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://i.ibb.co/ykzggNL/image-2020-10-28-T11-56-03-564-Z.png" tvg-name="CUATRO HD",CUATRO HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85595
+#EXTINF:-1,ES | TELECINCO HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23166
+#EXTINF:-1,ES | TELECINCO
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23165
+#EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://graph.facebook.com/laSexta/picture?width=200&height=200" tvg-name="laSexta",laSexta
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23164
+#EXTINF:-1,ES | LA SEXTA HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23163
+#EXTINF:-1,ES | LA SEXTA
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23162
+#EXTINF:-1,ES | TV GALICIA
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23161
+#EXTINF:-1,ES | ETB 1 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/90697
+#EXTINF:-1,ES | M DEPORTES 1 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14065
+#EXTINF:-1,ES | M DEPORTES 2
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14064
+#EXTINF:-1,ES | M DEPORTES 2 HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14062
+#EXTINF:-1,ES | TOROS FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23154
+#EXTINF:-1,ES | M beINSPORT HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14076
+#EXTINF:-1,ES | M beINSPORTS
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14077
+#EXTINF:-1,ES | M DEPORTES 1 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14067
+#EXTINF:-1,ES | M DEPORTES 2 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14063
+#EXTINF:-1,ES | M EUROSPORT 1 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14058
+#EXTINF:-1,ES | M EUROSPORT 1
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14059
+#EXTINF:-1,ES | M FORMULA 1 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14053
+#EXTINF:-1,ES | M MOTOGP FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14051
+#EXTINF:-1,ES |  M MOTOGP HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14050
+#EXTINF:-1,ES | M ESTRENOS FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23152
+#EXTINF:-1,ES | M XTRA HD (seriesmania)
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23150
+#EXTINF:-1,ES | M ACCION FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23149
+#EXTINF:-1,ES | TCM
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23140
+#EXTINF:-1,ES | M SERIES FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23136
+#EXTINF:-1,ES | M SERIES XTRA HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23135
+#EXTINF:-1,ES | COMEDY CENTRAL
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23133
+#EXTINF:-1,ES | ATRESERIES
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23131
+#EXTINF:-1,ES | AMC FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23128
+#EXTINF:-1,ES |  AMC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23127
+#EXTINF:-1,ES | M AXN FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23126
+#EXTINF:-1,ES | M AXN
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23125
+#EXTINF:-1,ES | M AXN WHITE FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23124
+#EXTINF:-1,ES | M CALLE 13 FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23122
+#EXTINF:-1,ES | ENERGY
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23121
+#EXTINF:-1,ES | COSMO FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23120
+#EXTINF:-1,ES | CANAL ODISEA
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23115
+#EXTINF:-1,ES | NAT GEOGRAPHIC FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23114
+#EXTINF:-1,ES | NAT GEO WILD FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23113
+#EXTINF:-1,ES | NAT GEO WILD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23112
+#EXTINF:-1,ES | CAZA Y PESCA FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23107
+#EXTINF:-1,ES | VIAJAR FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23105
+#EXTINF:-1,ES | NICKELODEON  FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23101
+#EXTINF:-1,ES | NICKELODEON FHD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23102
+#EXTINF:-1,ES | i24 NEWS HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85593
+#EXTINF:-1,ES | ANTENA 3 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85594
+#EXTINF:-1,ES | CUATRO HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85595
+#EXTINF:-1,ES | TELECINCO HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85596
+#EXTINF:-1,ES | LA SEXTA HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85597
+#EXTINF:-1,ES | M. ACCION HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85607
+#EXTINF:-1,ES | M. COMEDIA HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85608
+#EXTINF:-1,ES | M. DRAMA HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85609
+#EXTINF:-1,ES | M. CINEDOC&ROLL HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85610
+#EXTINF:-1,ES | HOLLYWOOD HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85613
+#EXTINF:-1,ES | TCM HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85614
+#EXTINF:-1,ES | TNT HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85615
+#EXTINF:-1,ES | #0 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85618
+#EXTINF:-1,ES | M. SERIES HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85619
+#EXTINF:-1,ES | FOX HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85620
+#EXTINF:-1,ES | FOX LIFE HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85621
+#EXTINF:-1,ES | AXN HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85622
+#EXTINF:-1,ES | AXN WHITE HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85623
+#EXTINF:-1,ES | SYFY HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85624
+#EXTINF:-1,ES | COMEDY CENTRAL HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85626
+#EXTINF:-1,ES | AMC HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85628
+#EXTINF:-1,ES | COSMO HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85629
+#EXTINF:-1,ES | CALLE 13 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85630
+#EXTINF:-1,ES |  # VAMOS HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85634
+#EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://graph.facebook.com/neox/picture?width=200&height=200" group-title="Generalistas" tvg-name="Neox",Neox GEO
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85636
+#EXTINF:-1,ES | M. LALIGA1 HD HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85637
+#EXTINF:-1,ES | M. GOLF HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85639
+#EXTINF:-1,ES | M. FORMULA 1 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85640
+#EXTINF:-1,ES | M. DEPORTES HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85642
+#EXTINF:-1,ES | LIGA DE CAMPEONES HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85643
+#EXTINF:-1,ES | GOL TV HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85644
+#EXTINF:-1,ES | TELEDEPORTE HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85645
+#EXTINF:-1,ES | EUROSPORT 1 HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85648
+#EXTINF:-1,ES | NAT GEO WILD HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85652
+#EXTINF:-1,ES | NAT GEOGRAPHIC HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85653
+#EXTINF:-1,ES | CAZA & PESCA HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85657
+#EXTINF:-1,ES | TOROS HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85659
+#EXTINF:-1,ES | VIAJAR HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85662
+#EXTINF:-1,ES | BOING HEVC-
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85664
+#EXTINF:-1,ES | DISNEY CHANNEL HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85667
+#EXTINF:-1,ES | DISNEY JUNIOR HEVC-
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85668
+#EXTINF:-1,ES | NICKELODEON HEVC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85671
